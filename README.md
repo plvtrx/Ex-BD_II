@@ -75,8 +75,6 @@ Forno de Embutir 55 Litros |          6 <br>
 Tablet LG 10.1             |          3 <br>
 Notebook Sony              |          1 <br>
 
-<br>
-
 # Funcoes de agregação em SQL <br>
 >MAX 	máximo <br>
 MIN 	mínimo <br>
